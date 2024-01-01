@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an interactive food ordering app <br>I'm studying for my AP Computer Science Exam <br>My most recent internship was @Nokia but unfortunately I cannot post the code for what I did there over here! <br>Love chatting about almost anything, so feel free to reach me!
+I'm currently working on an interactive food ordering app and studying for my AP Computer Science Exam <br>My most recent internship was @Nokia but unfortunately I cannot post the code for what I did there over here! <br>Love chatting about almost anything, so feel free to reach me!
 
 
 ## 🌐 Socials:
