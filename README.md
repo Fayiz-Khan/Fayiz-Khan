@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hey, I'm Fayiz a senior at John McCrae Secondary School!<br>I'm currently working on an interactive food ordering app and studying for my AP Computer Science Exam! <br>My most recent internship was at Nokia but unfortunately I cannot post the code for what I did there over here! <br>Love chatting about almost anything, so feel free to reach me!
 
+Excited to announce that I will be joining the Shopify Dev Degree program at Carleton this fall :) 
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FayizKhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@FayizKhan) 
