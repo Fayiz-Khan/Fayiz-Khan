@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Fayiz a student at Carleton University!<br>Was part of the Nokia Future Tech program in highschool and am now<br>happily in the Shopify Dev Degree program!<br>
+Hey, I'm Fayiz a student at Carleton University!<br>Was part of the Nokia Future Tech program in highschool and am now happily in the Shopify Dev Degree program!<br>
 
 
 ## 🌐 Socials:
