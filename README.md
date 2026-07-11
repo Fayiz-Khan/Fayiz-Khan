@@ -8,7 +8,7 @@ I like building systems that actually scale — from debugging distributed produ
 Previously:
 • Software Engineering Intern at Nokia  
 • Built SmartStudy, an AI study platform that won the Amazon Alexa Global Challenge  
-• Chess player (peak chess.com elo of 2496)
+• Chess player (peak chess.com elo of 2520)
 
 Interests: distributed systems, backend architecture, AI applications, and solving hard problems.
 
